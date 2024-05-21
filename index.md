@@ -6,3 +6,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 var myVar = "Hello, world!";
 ```
+
+- [ ] Take out the Trash
+- [ ] Walk the dog
+- [ ] Go to the gym
